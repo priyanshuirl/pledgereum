@@ -1,14 +1,17 @@
-<svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M3.18595 9.23478C1.8487 6.89136 2.58741 3.92689 4.83591 2.61345C7.0844 1.30002 9.99122 2.13499 11.3285 4.47841L17.1985 14.7652C18.5358 17.1086 17.797 20.0731 15.5485 21.3865C13.3001 22.6999 10.3932 21.865 9.05598 19.5215L3.18595 9.23478Z" fill="url(#paint0_linear_2290_2172)"/>
-<path d="M27.2349 6.6917C27.2349 9.32347 25.1345 11.4569 22.5435 11.4569C19.9525 11.4569 17.8521 9.32347 17.8521 6.6917C17.8521 4.05992 19.9525 1.92645 22.5435 1.92645C25.1345 1.92645 27.2349 4.05992 27.2349 6.6917Z" fill="url(#paint1_linear_2290_2172)"/>
-<defs>
-<linearGradient id="paint0_linear_2290_2172" x1="4.83591" y1="2.61345" x2="15.441" y2="21.0019" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ff0093"/>
-<stop offset="1" stop-color="#77D9AA"/>
-</linearGradient>
-<linearGradient id="paint1_linear_2290_2172" x1="22.5435" y1="1.92645" x2="22.5205" y2="11.2863" gradientUnits="userSpaceOnUse">
-<stop stop-color="#ff0093"/>
-<stop offset="1" stop-color="#77D9AA"/>
-</linearGradient>
-</defs>
-</svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 14 14" role="img" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-.14079811 .14285704) scale(.28571)">
+<path fill="#e69329" d="M15.9 15.7l-4.2 5.9 5.1 9.9 9.5-3.9 4.4-12.7z"/>
+<circle cx="15" cy="36" r="7.8000002" fill="#546e7a"/>
+<g fill="#90a4ae">
+<path d="M15 27c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 16c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7z"/>
+<path d="M14 33h2v8h-2z"/>
+</g>
+<g fill="#ffb74d">
+<path d="M12.9 36c1 1.9 3.2 2.7 5.1 1.7l16.5-8.5c1-.5 1.7-1.2 2.2-1.9 1.7-3.2 5.6-10.7 8.2-17.2l-18.2 8.7-4.8 7.2-6.8 3.6c-2.6 1.3-3.4 4.2-2.2 6.4z"/>
+<path d="M30.2 3L13.7 9.3c-.7.2-1.5 1-2.2 1.7l-5.6 7.5c-1 1.5-1.2 3.4-.5 5.1.4 1 1.7 3.4 3.1 6.1C10.1 28 12.4 27 15 27c.4 0 .9 0 1.3.1l-2.1-4.2 4.6-4.1h8s15.5-2.2 18.2-8.7L30.2 3z"/>
+</g>
+<path fill="#ffcdd2" d="M18.2 36c-1.3.6-2.8 0-3.3-1.3-.6-1.3 0-2.8 1.3-3.3 1.2-.6 3.2 4 2 4.6z"/>
+</g>
+</svg>
